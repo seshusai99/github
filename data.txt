@@ -1,8 +1,5 @@
-Line 1
-line2 >> data.txt
-cat data.txt
-claer
-clear
-
-pwd
-echo line2
+data added  second time
+line 1
+line 2
+line 3
+line 4 and 
