@@ -1,7 +1,2 @@
-data added  second time
-line 1
-line 2
-line 3
-line 4 and 
-hai hello
-how are you
+data added second time line 1 line 2 line 3 line 4 and hai hello how are 
+you add the data to file on nov 28
